@@ -40,4 +40,4 @@ To run this project on your local machine:
 
 ## 📸 Preview
 
-
+<img width="1919" height="1142" alt="Image" src="https://github.com/user-attachments/assets/6e2beb44-894d-4393-82d6-a55bdfe7a3b7" />
